@@ -252,22 +252,9 @@ Durante el desarrollo de esta actividad se utilizaron los siguientes conceptos d
 ---
 
 # 📷 Evidencia de Ejecución
-
-Agregar una captura de pantalla donde se observe la ejecución correcta de los diez ejercicios desde la consola.
-
 Ejemplo:
 
-```
-====== LOS 10 EJERCICIOS ======
-
---- EJERCICIO 1 ---
-Nombre: David
-Edad: 20
-Hola David, tienes 20 años.
-
---- EJERCICIO 2 ---
-...
-```
+![img_1.png](img_1.png)
 
 ---
 
